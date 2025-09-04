@@ -129,7 +129,7 @@ namespace MovingServer
         private void Form1_Paint(object? sender, PaintEventArgs e)
         {
             e.Graphics.Clear(this.BackColor);
-            e.Graphics.FillRectangle(Brushes.DarkRed, square);
+            e.Graphics.FillRectangle(Brushes.DarkMagenta, square);
 
             using (Font font = new Font("Arial", 16, FontStyle.Bold))
             {
