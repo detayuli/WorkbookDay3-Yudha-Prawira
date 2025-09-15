@@ -1,0 +1,28 @@
+C:\Users\MSI-PC\Documents\PENUGASAN\Pemrograman Jaringan Komputer\FileReceiver\bin\Debug\net9.0\FileReceiver.exe
+C:\Users\MSI-PC\Documents\PENUGASAN\Pemrograman Jaringan Komputer\FileReceiver\bin\Debug\net9.0\FileReceiver.deps.json
+C:\Users\MSI-PC\Documents\PENUGASAN\Pemrograman Jaringan Komputer\FileReceiver\bin\Debug\net9.0\FileReceiver.runtimeconfig.json
+C:\Users\MSI-PC\Documents\PENUGASAN\Pemrograman Jaringan Komputer\FileReceiver\bin\Debug\net9.0\FileReceiver.dll
+C:\Users\MSI-PC\Documents\PENUGASAN\Pemrograman Jaringan Komputer\FileReceiver\bin\Debug\net9.0\FileReceiver.pdb
+C:\Users\MSI-PC\Documents\PENUGASAN\Pemrograman Jaringan Komputer\FileReceiver\obj\Debug\net9.0\FileReceiver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI-PC\Documents\PENUGASAN\Pemrograman Jaringan Komputer\FileReceiver\obj\Debug\net9.0\FileReceiver.AssemblyInfoInputs.cache
+C:\Users\MSI-PC\Documents\PENUGASAN\Pemrograman Jaringan Komputer\FileReceiver\obj\Debug\net9.0\FileReceiver.AssemblyInfo.cs
+C:\Users\MSI-PC\Documents\PENUGASAN\Pemrograman Jaringan Komputer\FileReceiver\obj\Debug\net9.0\FileReceiver.csproj.CoreCompileInputs.cache
+C:\Users\MSI-PC\Documents\PENUGASAN\Pemrograman Jaringan Komputer\FileReceiver\obj\Debug\net9.0\FileReceiver.dll
+C:\Users\MSI-PC\Documents\PENUGASAN\Pemrograman Jaringan Komputer\FileReceiver\obj\Debug\net9.0\refint\FileReceiver.dll
+C:\Users\MSI-PC\Documents\PENUGASAN\Pemrograman Jaringan Komputer\FileReceiver\obj\Debug\net9.0\FileReceiver.pdb
+C:\Users\MSI-PC\Documents\PENUGASAN\Pemrograman Jaringan Komputer\FileReceiver\obj\Debug\net9.0\FileReceiver.genruntimeconfig.cache
+C:\Users\MSI-PC\Documents\PENUGASAN\Pemrograman Jaringan Komputer\FileReceiver\obj\Debug\net9.0\ref\FileReceiver.dll
+C:\Users\Michael Maeda\source\repos\Day4\FileReceiver\bin\Debug\net9.0\FileReceiver.exe
+C:\Users\Michael Maeda\source\repos\Day4\FileReceiver\bin\Debug\net9.0\FileReceiver.deps.json
+C:\Users\Michael Maeda\source\repos\Day4\FileReceiver\bin\Debug\net9.0\FileReceiver.runtimeconfig.json
+C:\Users\Michael Maeda\source\repos\Day4\FileReceiver\bin\Debug\net9.0\FileReceiver.dll
+C:\Users\Michael Maeda\source\repos\Day4\FileReceiver\bin\Debug\net9.0\FileReceiver.pdb
+C:\Users\Michael Maeda\source\repos\Day4\FileReceiver\obj\Debug\net9.0\FileReceiver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Michael Maeda\source\repos\Day4\FileReceiver\obj\Debug\net9.0\FileReceiver.AssemblyInfoInputs.cache
+C:\Users\Michael Maeda\source\repos\Day4\FileReceiver\obj\Debug\net9.0\FileReceiver.AssemblyInfo.cs
+C:\Users\Michael Maeda\source\repos\Day4\FileReceiver\obj\Debug\net9.0\FileReceiver.csproj.CoreCompileInputs.cache
+C:\Users\Michael Maeda\source\repos\Day4\FileReceiver\obj\Debug\net9.0\FileReceiver.dll
+C:\Users\Michael Maeda\source\repos\Day4\FileReceiver\obj\Debug\net9.0\refint\FileReceiver.dll
+C:\Users\Michael Maeda\source\repos\Day4\FileReceiver\obj\Debug\net9.0\FileReceiver.pdb
+C:\Users\Michael Maeda\source\repos\Day4\FileReceiver\obj\Debug\net9.0\FileReceiver.genruntimeconfig.cache
+C:\Users\Michael Maeda\source\repos\Day4\FileReceiver\obj\Debug\net9.0\ref\FileReceiver.dll
